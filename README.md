@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first git repository,
 <br>
-Author-Muskan Jaiswal
+Created by Muskan (IGDTUW)
